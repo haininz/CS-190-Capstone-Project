@@ -1,4 +1,4 @@
-use CORDS
+use CORDS;
 /*COVID-19 Positives*/
 /*In total*/
 select count(distinct person_id)
